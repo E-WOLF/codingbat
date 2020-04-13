@@ -2,9 +2,9 @@
 def sum3(nums):
     '''
     given array of ints len 3 
-    return same of all elements
+    return sam of all elements
     '''
-    
+    return nums[0] + nums[1] + nums [2]
 
 
 
